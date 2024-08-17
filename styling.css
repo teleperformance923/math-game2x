@@ -85,10 +85,10 @@ html{
 .box{
     width: 85px;
     height: 85px;
-    background-color: white;
+    background-color: transparent;
     float: left;
     margin-right: 36px;
-    border-radius: 3px;
+    border-radius: 25px;
     cursor: pointer;
     box-shadow: 0px 4px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0px 4px rgba(0, 0, 0, 0.2);
@@ -124,10 +124,10 @@ html{
 }
 
 #startreset{
-    width: 78px;
+    width: 200px;
     padding: 10px;
     background-color: rgba(255,255,255,0.5);
-    margin: 0 auto;
+    margin: 2 auto;
     border-radius: 3px;
     cursor: pointer;
     box-shadow: 0px 4px rgba(0, 0, 0, 0.2);
